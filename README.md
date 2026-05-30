@@ -40,12 +40,16 @@ A custom Minecraft network focused on unique gameplay experiences, advanced back
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SoleCloth7&theme=tokyonight&no-frame=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoleCloth7&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoleCloth7&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SoleCloth7&theme=github_dark" />
+</p>
 ---
 
 ## 🔥 Streak Stats

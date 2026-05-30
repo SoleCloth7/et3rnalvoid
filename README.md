@@ -63,7 +63,7 @@ A custom Minecraft network focused on unique gameplay experiences, advanced back
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://discord.gg/solecloth7">
+  <a href="https://discord.gg/krakensmp">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>

@@ -79,8 +79,4 @@ A custom Minecraft network focused on unique gameplay experiences, advanced back
 - Database Design
 - Large Scale Plugin Systems
 
----
 
-<p align="center">
-  <i>"Build it once. Build it properly."</i>
-</p>

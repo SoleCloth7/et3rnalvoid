@@ -50,7 +50,7 @@ A custom Minecraft network focused on unique gameplay experiences, advanced back
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoleCloth7&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SoleCloth7&theme=github_dark" />
 </p>
----
+
 
 ## 🔥 Streak Stats
 
